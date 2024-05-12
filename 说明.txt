@@ -1,0 +1,5 @@
+d1: Anthracnose
+d2: Phytophthora blight
+d3: Healthy
+d4: Bacterial spot
+d5: Mosaic virus
