@@ -1,0 +1,1 @@
+This is a dataset of pepper diseases, which contains five classes: Anthracnose, Phytophthora blight, Healthy, Bacterial spot, and Mosaic virus. Explain the category of the file name in the corresponding github archive.
